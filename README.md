@@ -11,7 +11,7 @@ Compatible with version of VLC:
 #### MacOS
 
 1. Download official [VLC](https://get.videolan.org/vlc/3.0.20/macosx/) for your specific OS and architecture.
-2. Install VLC
+2. Install VLC. Open VLC if the first installation to let MacOS verify the application. 
 3. Download the [plugin](https://github.com/Caton-Technology/cmxs-plugin-for-vlc/releases) for your specific OS and architecture.
 4. Unzip the file.
 5. Install the plugin:
