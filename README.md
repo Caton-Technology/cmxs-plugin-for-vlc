@@ -1,5 +1,12 @@
 # Caton Media XStream Plugin for VLC
 
+[Get the plugin releases for VLC](https://github.com/Caton-Technology/cmxs-plugin-for-vlc/releases)
+
+**This document is Deprecated.**
+
+Please follow https://github.com/caton-sdk/cmxs-sdk for SDK and https://github.com/caton-cmxs-examples/caton-cmxs-examples for Plugins.
+
+
 ## Compatibillity
 Only MacOS for now. Plugin for Windows platform is comming soon.
 
